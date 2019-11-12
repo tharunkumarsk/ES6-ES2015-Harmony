@@ -1,3 +1,3 @@
-# Javascript-Composition
+# All New features in ES6 are discussed here
 
-Keep your functions short, single purpose and referentially transparent(DOT)
+Just capturing the new trends in javascript
